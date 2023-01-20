@@ -1,2 +1,2 @@
 # GalaxyClassification
-A neural network written in Julia to classify galaxies as spiral or elliptical using publicly available sky survey data.
+A neural network written in Python from scratch. Eventually would like to classify galaxies as spiral or elliptical using publicly available sky survey data.
